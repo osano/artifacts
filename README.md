@@ -1,2 +1,3 @@
-# artifacts
-Osano mobile SDK artifacts
+# Osano Mobile SDKs
+
+Artifacts for the Android and iOS SKDs.
